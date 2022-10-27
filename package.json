@@ -1,0 +1,28 @@
+{
+  "name": "samsung-ac-api-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fneiraj/samsung-ac-api-nodejs.git"
+  },
+  "keywords": [],
+  "author": "https://github.com/fneira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fneiraj/samsung-ac-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/fneiraj/samsung-ac-api-nodejs#readme",
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "dependencies": {
+    "express": "4.18.2",
+    "standard": "17.0.0"
+  }
+}
